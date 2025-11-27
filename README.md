@@ -24,11 +24,11 @@ This is a simple web application for managing users with different roles (Admin 
 ### Home Page (Welcome)
 ![Home Page](images/home.png)
 
-### Admin Dashboard (User List)
-![Admin Dashboard](images/admin_dashboard.png)
+### Admin Dashboard
+![Admin Dashboard](images/admin.png)
 
-### Admin Add User
-![Admin Add User](images/admin.png)
+### Admin Add User (User List)
+![Admin Add User](images/admin_dashboard.png)
 
 ### Change Password
 ![Change Password](images/change_password.png)
