@@ -13,6 +13,26 @@ This is a simple web application for managing users with different roles (Admin 
 *   Node.js installed
 *   MySQL Server (e.g., XAMPP or WAMP) running
 
+## Screenshots
+
+### Login Page
+![Login Page](images/login.png)
+
+### Student Registration
+![Registration](images/register.png)
+
+### Home Page (Welcome)
+![Home Page](images/home.png)
+
+### Admin Dashboard (User List)
+![Admin Dashboard](images/admin_dashboard.png)
+
+### Admin Add User
+![Admin Add User](images/admin.png)
+
+### Change Password
+![Change Password](images/change_password.png)
+
 ## Setup Instructions
 
 ### 1. Database Setup
